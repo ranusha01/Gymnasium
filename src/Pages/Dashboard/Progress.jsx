@@ -4,4 +4,4 @@ const Progress = () => {
   <div>progress</div>
 };
 
-export default Progress;
+export default Progress;c
