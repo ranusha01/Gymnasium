@@ -40,13 +40,14 @@ const Navbar = () => {
             <li>
               <a href="#howitworks">How it works</a>
             </li>
-            <li>
-              <a href="#aboutus">About Us</a>
-            </li>
+            
             <li>
               <a href="#contactus">Contact Us</a>
             </li>
           </ul>
+
+        
+  
 
           {/* Right side button */}
           <div className="hidden lg:flex gap-4 text-lg font-semibold">

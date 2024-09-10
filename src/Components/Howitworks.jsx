@@ -27,7 +27,7 @@ const ServicesData = [
   },
 ];
 
-const Services = () => {
+const Howitworks = () => {
   return (
     <div className='bg-customGreen py-10 px-5'>
       <div className='container mx-auto'>
@@ -58,4 +58,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Howitworks;
