@@ -38,7 +38,7 @@ const trainers = [
   { id: 1, name: "Mike Johnson", specialty: "Weight Training", imageUrl: "/src/assets/mike-johnson.jpg?height=200&width=200", rating: 4.5 },
   { id: 2, name: "Sarah Lee", specialty: "Yoga", imageUrl: "src/assets/Sarah Lee.jpg?height=200&width=200", rating: 5 },
   { id: 3, name: "Jane Smith Chen", specialty: "Cardio", imageUrl: "src/assets/jane-smith.jpg?height=200&width=200", rating: 4 },
-  { id: 4, name: "Emma Wilson", specialty: "Pilates", imageUrl: "/src/assets/Emma Wilson.jpg?height=200&width=200", rating: 4.5 },
+  { id: 4, name: "Emma Wilson", specialty: "Pilates", imageUrl: "/src/assets/Emma-Wilson.jpg?height=200&width=200", rating: 4.5 },
   { id: 5, name: "John Doe", specialty: "CrossFit", imageUrl: "/src/assets/john-doe.jpg?height=200&width=200", rating: 3.5 },
   { id: 6, name: "Lisa Taylor", specialty: "Nutrition", imageUrl: "src/assets/Lisa-Taylor.jpg?height=200&width=200", rating: 5 },
 ]
