@@ -13,9 +13,9 @@ const Hero = () => {
           <h1 className="mb-3">GET HEALTHY</h1>
         </div>
         <p className="text-sm sm:text-base md:text-lg max-w-[18rem] sm:max-w-[22rem] md:max-w-[26rem] my-4 md:my-8">
-          Welcome to our fitness training program designed to help you achieve your fitness goals with the help of desired trainers and a workout plan.
+          Welcome to our fitness training program designed to help you achieve your fitness goals with the help of desired trainers and a workout plan. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In iusto inventore excepturi, aliquid placeat, eum, necessitatibus deleniti labore fuga consectetur itaque! Consequuntur ipsa quas distinctio harum quasi earum illo quam.
         </p>
-        <div className="flex gap-2 text-sm sm:text-lg mt-4 md:mt-8">
+        <div className="flex gap-2 text-sm sm:text-lg mt-8 md:mt-12">
           <button className="bg-green-900 hover:bg-green-950 text-white px-4 sm:px-[2.2rem] py-2 rounded-xl">
             <Link to="/login">LOGIN</Link>
           </button>
@@ -25,7 +25,6 @@ const Hero = () => {
         </div>
       </div>
     </div>
-    
   );
 }
 
