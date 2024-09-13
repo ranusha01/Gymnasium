@@ -38,7 +38,7 @@ const Main = () => {
         return <DietPlan />;
       case 'trainers':
         return <Trainers />;
-      case 'calendar':
+      case 'Progress':
         return <Progress />;
       case 'settings':
         return <Settings />;
